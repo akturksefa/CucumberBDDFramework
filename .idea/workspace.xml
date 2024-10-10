@@ -4,15 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e076fd62-86f7-4f83-aa86-b000f5e6ad4a" name="Changes" comment="" />
+    <list default="true" id="e076fd62-86f7-4f83-aa86-b000f5e6ad4a" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/test/java/hook/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/AmazonPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/BrcPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DataPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/GuruPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HerokuAppPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefiniations/AmazonStepDefiniations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefiniations/BrcStepDefiniations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefiniations/DataTablesStepDefiniation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefiniations/FaceBookStepDefiniations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefiniations/GuruStepDefiniations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefiniations/HerokuAppStepDefiniation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US001_amazonSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US002_backgroundKullanimi.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US003_parametreKullanimi.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US004_parametreVeConfigReaderKullanimi.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US005_practice.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US006_scenarioOutline.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US007_scenarioOulineClassWork.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US008_scenarioPracice.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US009_practice.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;akturksefa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/akturksefa/CucumberBDDFramework.git&quot;,
+    &quot;accountId&quot;: &quot;846e544f-ab7c-42e2-bccb-e3a5002cba35&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2nFFZOMCXVY2JcsDgdPhDZsSF1O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,13 +73,154 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Cucumber Java.Feature: US001_amazonSearch.executor": "Run",
+    "Cucumber Java.Feature: US002_backgroundKullanimi.executor": "Run",
+    "Cucumber Java.Feature: US004_parametreVeConfigReaderKullanimi.executor": "Run",
+    "Cucumber Java.Feature: US005_practice.executor": "Run",
+    "Cucumber Java.Feature: US008_scenarioPracice.executor": "Run",
+    "Cucumber Java.Feature: US009_practice.executor": "Run",
+    "Cucumber Java.Feature: US07_scenarioOulineClassWork.executor": "Debug",
+    "Cucumber Java.Scenario: TC01 Kullanici gecerli bilgilerle giris testi yapar.executor": "Run",
+    "Cucumber Java.Scenario: TC01 Kullanici istedigi kelimeleri aratir.executor": "Run",
+    "Cucumber Java.Scenario: TC01 herokuapp adresinden delete butonu calismali.executor": "Run",
+    "Cucumber Java.Scenario: TC01 kullanici 5 farkli kayit girisi yapabilmeli.executor": "Run",
+    "Cucumber Java.Scenario: TC01 kullanici 5 farklı kayit girisi yapabilmeli.executor": "Run",
+    "Cucumber Java.Scenario: TC01 kullanici searchbox test eder.executor": "Run",
+    "Cucumber Java.Scenario: TC01 kullanici sutun basligi ile liste alabilmeli.executor": "Run",
+    "Cucumber Java.Scenario: TC02 kullanici searchbox test eder (1).executor": "Run",
+    "Cucumber Java.Scenario: TC02 kullanici searchbox test eder.executor": "Run",
+    "Cucumber Java.Scenario: TC03 kullanici searchbox test eder.executor": "Run",
+    "JUnit.Runner.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Sefa/IdeaProjects/CucumberBDDFramework/src/test/java/stepDefiniations",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Sefa/IdeaProjects/CucumberBDDFramework/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sefa\IdeaProjects\CucumberBDDFramework\src\test\java\utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: US009_practice">
+    <configuration name="Feature: US008_scenarioPracice" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US008_scenarioPracice.feature" />
+      <option name="GLUE" value="hook stepDefiniations" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDDFramework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: US008_scenarioPracice" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: US009_practice" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US009_practice.feature" />
+      <option name="GLUE" value="hook stepDefiniations" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDDFramework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: US009_practice" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC01 herokuapp adresinden delete butonu calismali" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US008_scenarioPracice.feature" />
+      <option name="GLUE" value="hook stepDefiniations" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDDFramework" />
+      <option name="NAME_FILTER" value="^TC01 herokuapp adresinden delete butonu calismali$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 herokuapp adresinden delete butonu calismali$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01 herokuapp adresinden delete butonu calismali" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC01 kullanici 5 farkli kayit girisi yapabilmeli" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US07_scenarioOulineClassWork.feature" />
+      <option name="GLUE" value="hook stepDefiniations" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDDFramework" />
+      <option name="NAME_FILTER" value="^TC01 kullanici 5 farkli kayit girisi yapabilmeli$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 kullanici 5 farkli kayit girisi yapabilmeli$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01 kullanici 5 farkli kayit girisi yapabilmeli" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: TC01 kullanici sutun basligi ile liste alabilmeli" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US009_practice.feature" />
+      <option name="GLUE" value="hook stepDefiniations" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberBDDFramework" />
+      <option name="NAME_FILTER" value="^TC01 kullanici sutun basligi ile liste alabilmeli$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC01 kullanici sutun basligi ile liste alabilmeli$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC01 kullanici sutun basligi ile liste alabilmeli" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: US009_practice" />
+        <item itemvalue="Cucumber Java.Scenario: TC01 kullanici sutun basligi ile liste alabilmeli" />
+        <item itemvalue="Cucumber Java.Feature: US008_scenarioPracice" />
+        <item itemvalue="Cucumber Java.Scenario: TC01 herokuapp adresinden delete butonu calismali" />
+        <item itemvalue="Cucumber Java.Scenario: TC01 kullanici 5 farkli kayit girisi yapabilmeli" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,9 +237,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728560974193</updated>
-      <workItem from="1728560975267" duration="1000" />
+      <workItem from="1728560975267" duration="1010000" />
+      <workItem from="1728562010043" duration="58000" />
+      <workItem from="1728562074533" duration="165000" />
+      <workItem from="1728562248931" duration="34000" />
+      <workItem from="1728562289957" duration="236000" />
+      <workItem from="1728562534218" duration="5883000" />
+      <workItem from="1728814957225" duration="7551000" />
+      <workItem from="1728985490739" duration="10444000" />
+      <workItem from="1729003105569" duration="760000" />
+      <workItem from="1729003878666" duration="5310000" />
     </task>
+    <task id="LOCAL-00001" summary="Created">
+      <option name="closed" value="true" />
+      <created>1728561225455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728561225455</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <option name="closed" value="true" />
+      <created>1728562220862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728562220862</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
